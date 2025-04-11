@@ -1,79 +1,79 @@
-Year,Champion,City,State
-2024,Denver Nuggets,Denver,CO
-2023,Denver Nuggets,Denver,CO
-2022,Golden State Warriors,San Francisco,CA
-2021,Milwaukee Bucks,Milwaukee,WI
-2020,Los Angeles Lakers,Los Angeles,CA
-2019,Toronto Raptors,Toronto,ON
-2018,Golden State Warriors,Oakland,CA
-2017,Golden State Warriors,Oakland,CA
-2016,Cleveland Cavaliers,Cleveland,OH
-2015,Golden State Warriors,Oakland,CA
-2014,San Antonio Spurs,San Antonio,TX
-2013,Miami Heat,Miami,FL
-2012,Miami Heat,Miami,FL
-2011,Dallas Mavericks,Dallas,TX
-2010,Los Angeles Lakers,Los Angeles,CA
-2009,Los Angeles Lakers,Los Angeles,CA
-2008,Boston Celtics,Boston,MA
-2007,San Antonio Spurs,San Antonio,TX
-2006,Miami Heat,Miami,FL
-2005,San Antonio Spurs,San Antonio,TX
-2004,Detroit Pistons,Auburn Hills,MI
-2003,San Antonio Spurs,San Antonio,TX
-2002,Los Angeles Lakers,Los Angeles,CA
-2001,Los Angeles Lakers,Los Angeles,CA
-2000,Los Angeles Lakers,Los Angeles,CA
-1999,San Antonio Spurs,San Antonio,TX
-1998,Chicago Bulls,Chicago,IL
-1997,Chicago Bulls,Chicago,IL
-1996,Chicago Bulls,Chicago,IL
-1995,Houston Rockets,Houston,TX
-1994,Houston Rockets,Houston,TX
-1993,Chicago Bulls,Chicago,IL
-1992,Chicago Bulls,Chicago,IL
-1991,Chicago Bulls,Chicago,IL
-1990,Detroit Pistons,Auburn Hills,MI
-1989,Detroit Pistons,Auburn Hills,MI
-1988,Los Angeles Lakers,Los Angeles,CA
-1987,Los Angeles Lakers,Los Angeles,CA
-1986,Boston Celtics,Boston,MA
-1985,Los Angeles Lakers,Los Angeles,CA
-1984,Boston Celtics,Boston,MA
-1983,Philadelphia 76ers,Philadelphia,PA
-1982,Los Angeles Lakers,Los Angeles,CA
-1981,Boston Celtics,Boston,MA
-1980,Los Angeles Lakers,Los Angeles,CA
-1979,Seattle SuperSonics,Seattle,WA
-1978,Washington Bullets,Washington DC,DC
-1977,Portland Trail Blazers,Portland,OR
-1976,Boston Celtics,Boston,MA
-1975,Golden State Warriors,Oakland,CA
-1974,Boston Celtics,Boston,MA
-1973,New York Knicks,New York,NY
-1972,Los Angeles Lakers,Los Angeles,CA
-1971,Milwaukee Bucks,Milwaukee,WI
-1970,New York Knicks,New York,NY
-1969,Boston Celtics,Boston,MA
-1968,Boston Celtics,Boston,MA
-1967,Philadelphia 76ers,Philadelphia,PA
-1966,Boston Celtics,Boston,MA
-1965,Boston Celtics,Boston,MA
-1964,Boston Celtics,Boston,MA
-1963,Boston Celtics,Boston,MA
-1962,Boston Celtics,Boston,MA
-1961,Boston Celtics,Boston,MA
-1960,Boston Celtics,Boston,MA
-1959,Boston Celtics,Boston,MA
-1958,St. Louis Hawks,St. Louis,MO
-1957,Boston Celtics,Boston,MA
-1956,Philadelphia Warriors,Philadelphia,PA
-1955,Syracuse Nationals,Syracuse,NY
-1954,Minneapolis Lakers,Minneapolis,MN
-1953,Minneapolis Lakers,Minneapolis,MN
-1952,Minneapolis Lakers,Minneapolis,MN
-1951,Rochester Royals,Rochester,NY
-1950,Minneapolis Lakers,Minneapolis,MN
-1949,Minneapolis Lakers,Minneapolis,MN
-1948,Baltimore Bullets,Baltimore,MD
-1947,Philadelphia Warriors,Philadelphia,PA
+Year,Champion,City,State,StateFull
+2024,Denver Nuggets,Denver,CO,Colorado
+2023,Denver Nuggets,Denver,CO,Colorado
+2022,Golden State Warriors,San Francisco,CA,California
+2021,Milwaukee Bucks,Milwaukee,WI,Wisconsin
+2020,Los Angeles Lakers,Los Angeles,CA,California
+2019,Toronto Raptors,Toronto,ON,Ontario
+2018,Golden State Warriors,Oakland,CA,California
+2017,Golden State Warriors,Oakland,CA,California
+2016,Cleveland Cavaliers,Cleveland,OH,Ohio
+2015,Golden State Warriors,Oakland,CA,California
+2014,San Antonio Spurs,San Antonio,TX,Texas
+2013,Miami Heat,Miami,FL,Florida
+2012,Miami Heat,Miami,FL,Florida
+2011,Dallas Mavericks,Dallas,TX,Texas
+2010,Los Angeles Lakers,Los Angeles,CA,California
+2009,Los Angeles Lakers,Los Angeles,CA,California
+2008,Boston Celtics,Boston,MA,Massachusetts
+2007,San Antonio Spurs,San Antonio,TX,Texas
+2006,Miami Heat,Miami,FL,Florida
+2005,San Antonio Spurs,San Antonio,TX,Texas
+2004,Detroit Pistons,Auburn Hills,MI,Michigan
+2003,San Antonio Spurs,San Antonio,TX,Texas
+2002,Los Angeles Lakers,Los Angeles,CA,California
+2001,Los Angeles Lakers,Los Angeles,CA,California
+2000,Los Angeles Lakers,Los Angeles,CA,California
+1999,San Antonio Spurs,San Antonio,TX,Texas
+1998,Chicago Bulls,Chicago,IL,Illinois
+1997,Chicago Bulls,Chicago,IL,Illinois
+1996,Chicago Bulls,Chicago,IL,Illinois
+1995,Houston Rockets,Houston,TX,Texas
+1994,Houston Rockets,Houston,TX,Texas
+1993,Chicago Bulls,Chicago,IL,Illinois
+1992,Chicago Bulls,Chicago,IL,Illinois
+1991,Chicago Bulls,Chicago,IL,Illinois
+1990,Detroit Pistons,Auburn Hills,MI,Michigan
+1989,Detroit Pistons,Auburn Hills,MI,Michigan
+1988,Los Angeles Lakers,Los Angeles,CA,California
+1987,Los Angeles Lakers,Los Angeles,CA,California
+1986,Boston Celtics,Boston,MA,Massachusetts
+1985,Los Angeles Lakers,Los Angeles,CA,California
+1984,Boston Celtics,Boston,MA,Massachusetts
+1983,Philadelphia 76ers,Philadelphia,PA,Pennsylvania
+1982,Los Angeles Lakers,Los Angeles,CA,California
+1981,Boston Celtics,Boston,MA,Massachusetts
+1980,Los Angeles Lakers,Los Angeles,CA,California
+1979,Seattle SuperSonics,Seattle,WA,Washington
+1978,Washington Bullets,Washington DC,DC,District of Columbia
+1977,Portland Trail Blazers,Portland,OR,Oregon
+1976,Boston Celtics,Boston,MA,Massachusetts
+1975,Golden State Warriors,Oakland,CA,California
+1974,Boston Celtics,Boston,MA,Massachusetts
+1973,New York Knicks,New York,NY,New York
+1972,Los Angeles Lakers,Los Angeles,CA,California
+1971,Milwaukee Bucks,Milwaukee,WI,Wisconsin
+1970,New York Knicks,New York,NY,New York
+1969,Boston Celtics,Boston,MA,Massachusetts
+1968,Boston Celtics,Boston,MA,Massachusetts
+1967,Philadelphia 76ers,Philadelphia,PA,Pennsylvania
+1966,Boston Celtics,Boston,MA,Massachusetts
+1965,Boston Celtics,Boston,MA,Massachusetts
+1964,Boston Celtics,Boston,MA,Massachusetts
+1963,Boston Celtics,Boston,MA,Massachusetts
+1962,Boston Celtics,Boston,MA,Massachusetts
+1961,Boston Celtics,Boston,MA,Massachusetts
+1960,Boston Celtics,Boston,MA,Massachusetts
+1959,Boston Celtics,Boston,MA,Massachusetts
+1958,St. Louis Hawks,St. Louis,MO,Missouri
+1957,Boston Celtics,Boston,MA,Massachusetts
+1956,Philadelphia Warriors,Philadelphia,PA,Pennsylvania
+1955,Syracuse Nationals,Syracuse,NY,New York
+1954,Minneapolis Lakers,Minneapolis,MN,Minnesota
+1953,Minneapolis Lakers,Minneapolis,MN,Minnesota
+1952,Minneapolis Lakers,Minneapolis,MN,Minnesota
+1951,Rochester Royals,Rochester,NY,New York
+1950,Minneapolis Lakers,Minneapolis,MN,Minnesota
+1949,Minneapolis Lakers,Minneapolis,MN,Minnesota
+1948,Baltimore Bullets,Baltimore,MD,Maryland
+1947,Philadelphia Warriors,Philadelphia,PA,Pennsylvania
